@@ -84,7 +84,7 @@ window.onpointermove = event => {
 
 gsap.to(blob, {
   duration: 1,
-  height: "60vmax"
+  height: "40vmax"
 });
 
 const blob2 = document.getElementById("blob2");
